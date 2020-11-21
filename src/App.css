@@ -3,7 +3,7 @@
 
 body {
   font-family: "Poppins", sans-serif;
-  background-color: antiquewhite;
+  background-color: rgb(184, 181, 177);
 }
 
 .App {
@@ -21,7 +21,7 @@ body {
 }
 .menuList li a {
   text-decoration: none;
-  color: black;
+  color: rgb(0, 0, 0);
 }
 
 .header {
