@@ -15,12 +15,17 @@ export default function Contact() {
                 <p>Email: quintinkellydekker888@gmail.com</p>
             </div>
 
+
+
+
+
             <div className="contactItem">
                 <i class="fa fa-users" aria-hidden="true"></i>
                 <p>LinkedIn: </p>
                 <a href=" https://www.linkedin.com/in/quintin-kelly-dekker-a36b961b0/">
                     Quintin Kelly dekker
         </a>
+
             </div>
         </div>
     );

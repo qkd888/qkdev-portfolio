@@ -1,5 +1,7 @@
 import React from "react";
 import { Link, withRouter } from "react-router-dom";
+import dev from "../images/dev.png";
+
 
 function Header(props) {
     const isActive = (path) => {
@@ -9,7 +11,10 @@ function Header(props) {
     };
 
     return (
+
+
         <div className="header">
+
             <h3 className="logo">qkdev</h3>
             <ul className="menuList">
                 <li style={isActive("/")}>

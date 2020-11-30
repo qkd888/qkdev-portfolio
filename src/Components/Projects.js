@@ -3,11 +3,29 @@ import React from "react";
 
 export default function Projects() {
     return (
+
+
         <div className="projects">
-            <h1>Projects</h1>
+            <h1>Certificates and Projects</h1>
 
             <div className="projectItem">
-                <p className="name"> Name: Klank Records Webshop</p>
+                <p className="name"> Name: &lt; Hyperiondev &gt;
+                Full Stack Web Developement.</p>
+                <p>
+                    Discription: Building dynamic web applications using various web technologies incl,
+                    HTML, CSS, JavaScript, Node.js, MongoDB, Express, React and NextJS.
+            </p>
+
+                <a href="PLACEHOLDER">
+                    Certificate of Completion
+            </a>
+
+
+
+            </div>
+
+            <div className="projectItem">
+                <p className="name"> Name: Klank Records Webshop.</p>
 
                 <p>
                     Description: An online music store that is dedicated to providing
@@ -19,8 +37,10 @@ export default function Projects() {
         </a>
             </div>
 
+
+
             <div className="projectItem">
-                <p className="name">Name: General knowledge Quiz Game</p>
+                <p className="name">Name: General knowledge Quiz Game.</p>
                 <p>
                     Description: A quiz game that is suitable for anyone who wants to test
                     their general knowledge.
@@ -30,8 +50,10 @@ export default function Projects() {
         </a>
             </div>
 
+
+
             <div className="projectItem">
-                <p className="name">Name: Itunes Search Api Application</p>
+                <p className="name">Name: Itunes Search Api Application.</p>
                 <p>
                     Description: This application allows a user to search for their
                     favourite media content on Itunes and store that content to their list
@@ -42,8 +64,26 @@ export default function Projects() {
                     <a href=" https://evening-badlands-44327.herokuapp.com/">
                         Heroku App
           </a>
+
                 </p>
+
             </div>
+
+            <div className="projectItem">
+                <p className="name">Name: qkdev Blog.</p>
+                <p>
+                    Discription: This is where I talk and explain all things Web related.
+            </p>
+                <p>
+                    <a href="https://qkdev.blogspot.com/">
+                        Blog
+                </a>
+                </p>
+
+            </div>
+
         </div>
+
+
     );
 }
