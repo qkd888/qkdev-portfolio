@@ -16,7 +16,7 @@ export default function Projects() {
                     HTML, CSS, JavaScript, Node.js, MongoDB, Express, React and NextJS.
             </p>
 
-                <a href="PLACEHOLDER">
+                <a href="https://www.hyperiondev.com/portfolio/51223/">
                     Certificate of Completion
             </a>
 
