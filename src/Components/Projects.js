@@ -17,8 +17,16 @@ export default function Projects() {
             </p>
 
                 <a href="https://www.hyperiondev.com/portfolio/51223/">
-                    Certificate of Completion
+                    Hyperiondev Portfolio
             </a>
+
+                <div className="projects">
+                    <a href='https://www.linkedin.com/in/quintin-kelly-dekker-a36b961b0/detail/treasury/education:662529009/?entityUrn=urn%3Ali%3Afsd_profileTreasuryMedia%3A(ACoAADFMC0oBid6vIhO1up_mDCNMzFkMlXrBhdQ%2C1607351381867)&section=education%3A662529009&treasuryCount=1'>
+                        Certificate of completion
+
+                </a>
+
+                </div>
 
 
 
