@@ -1,6 +1,6 @@
 import React from "react";
 import { Link, withRouter } from "react-router-dom";
-import dev from "../images/dev.png";
+
 
 
 function Header(props) {

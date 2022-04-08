@@ -5,7 +5,7 @@ export default function About() {
         <div className="about">
             <h1>About</h1>
             <p>Hello, My name is Quintin Kelly Dekker</p>
-            <p>
+            <p className="aboutMe">
                 I am fueled by high energy levels and boundless enthusiasm, I’m easily
                 inspired and more then willing to follow my fascinations wherever they
                 take me. I’m passionate, expressive, and a multi-talented spirit with

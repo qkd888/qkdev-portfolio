@@ -66,12 +66,27 @@ export default function Projects() {
                     Description: This application allows a user to search for their
                     favourite media content on Itunes and store that content to their list
                     of favourites.
-        </p>
+                </p>
 
                 <p>
-                    <a href=" https://evening-badlands-44327.herokuapp.com/">
+                    <a href=" https://pure-earth-79065.herokuapp.com/">
                         Heroku App
-          </a>
+                    </a>
+
+                </p>
+
+            </div>
+
+            <div className="projectItem">
+                <p className="name">Name: Prizm.IT Website</p>
+                <p>
+                    Description: Custom Website for a IT specialist.
+                </p>
+
+                <p>
+                    <a href=" https://qkd888.github.io/PRISM.IT-Website/pages/index.html">
+                        Prizm.IT
+                    </a>
 
                 </p>
 

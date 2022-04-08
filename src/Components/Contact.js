@@ -22,9 +22,9 @@ export default function Contact() {
             <div className="contactItem">
                 <i class="fa fa-users" aria-hidden="true"></i>
                 <p>LinkedIn: </p>
-                <a href=" https://www.linkedin.com/in/quintin-kelly-dekker-a36b961b0/">
+                <a class="linkedIn" href=" https://www.linkedin.com/in/quintin-kelly-dekker-a36b961b0/">
                     Quintin Kelly dekker
-        </a>
+                </a>
 
             </div>
         </div>
