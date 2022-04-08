@@ -5,7 +5,7 @@ export default function Contact() {
         <div className="contact">
             <h1> Contact</h1>
 
-            <div className className="contactItem">
+            <div className="contactItem">
                 <i class="fa fa-phone" aria-hidden="true"></i>
                 <p>Phone: 0723495629</p>
             </div>

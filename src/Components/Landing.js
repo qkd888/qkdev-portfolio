@@ -1,6 +1,4 @@
 import React from "react";
-import Quintin from "../images/Quintin.jpg";
-import dev from "../images/dev.png";
 
 
 export default function Landing() {
